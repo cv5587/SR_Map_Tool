@@ -1,0 +1,91 @@
+﻿  BaseCollider.cpp
+  Calculator.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Utility\Code\BaseCollider.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'BaseCollider.h': No such file or directory
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/Calculator.cpp'을(를) 컴파일하는 중)
+  
+  Camera.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Utility\Code\Camera.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'Camera.h': No such file or directory
+  CollisionMgr.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Utility\Code\CollisionMgr.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'CollisionMgr.h': No such file or directory
+  Component.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/Component.cpp'을(를) 컴파일하는 중)
+  
+  CubeTex.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/CubeTex.cpp'을(를) 컴파일하는 중)
+  
+  DynamicAABBTree.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/DynamicAABBTree.cpp'을(를) 컴파일하는 중)
+  
+  FBXLoader.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Utility\Code\FBXLoader.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'FBXLoader.h': No such file or directory
+  GameObject.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/GameObject.cpp'을(를) 컴파일하는 중)
+  
+  Layer.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Layer.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/Layer.cpp'을(를) 컴파일하는 중)
+  
+  Light.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Light.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/Light.cpp'을(를) 컴파일하는 중)
+  
+  LightMgr.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\LightMgr.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/LightMgr.cpp'을(를) 컴파일하는 중)
+  
+  Management.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Utility\Code\Management.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'Export_Utility.h': No such file or directory
+  Mesh.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Utility\Code\Mesh.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'Mesh.h': No such file or directory
+  ParticleBuffer.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Utility\Code\ParticleBuffer.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'ParticleBuffer.h': No such file or directory
+  ProtoMgr.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/ProtoMgr.cpp'을(를) 컴파일하는 중)
+  
+  RcCol.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/RcCol.cpp'을(를) 컴파일하는 중)
+  
+  RcTex.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/RcTex.cpp'을(를) 컴파일하는 중)
+  
+  Renderer.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/Renderer.cpp'을(를) 컴파일하는 중)
+  
+  Scene.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/Scene.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  TerrainTex.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/TerrainTex.cpp'을(를) 컴파일하는 중)
+  
+  Texture.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/Texture.cpp'을(를) 컴파일하는 중)
+  
+  Transform.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/Transform.cpp'을(를) 컴파일하는 중)
+  
+  TriCol.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/TriCol.cpp'을(를) 컴파일하는 중)
+  
+  UICamera.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Utility\Code\UICamera.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'UICamera.h': No such file or directory
+  VIBuffer.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/VIBuffer.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

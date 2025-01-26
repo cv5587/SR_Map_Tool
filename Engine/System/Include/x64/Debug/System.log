@@ -1,0 +1,29 @@
+﻿  FontMgr.cpp
+  Frame.cpp
+  FrameMgr.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\FontMgr.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/FontMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Frame.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/Frame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Frame.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/FrameMgr.cpp'을(를) 컴파일하는 중)
+  
+  GraphicDev.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/GraphicDev.cpp'을(를) 컴파일하는 중)
+  
+  InputDev.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\System\Code\InputDev.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'InputDev.h': No such file or directory
+  MyFont.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\System\Code\MyFont.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'MyFont.h': No such file or directory
+  Timer.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\Timer.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/Timer.cpp'을(를) 컴파일하는 중)
+  
+  TimerMgr.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Map_Tool\Engine\Header\TimerMgr.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/TimerMgr.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
